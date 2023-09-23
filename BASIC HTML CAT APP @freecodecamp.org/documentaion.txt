@@ -1,0 +1,39 @@
+
+Cat App Documentation
+Introduction
+Welcome to the Cat App documentation! This simple web page project was created using basic HTML tags and is hosted on FreeCodeCamp.org. This documentation will provide an overview of the project and explain its structure and functionality.
+
+Project Description
+The Cat App is a basic web page that displays information about different cat breeds. It allows users to learn about various cat breeds, including their names, characteristics, and images. This project serves as a starting point for beginners learning HTML.
+
+Project Structure
+The project consists of three main HTML elements:
+
+<!DOCTYPE html>: This declaration defines the document type and version of HTML being used.
+
+<html>: The root element that wraps the entire HTML document.
+
+<head>: This section contains meta-information about the document, such as the title and links to external resources (CSS or JavaScript). In our project, we set the title of the page.
+
+<body>: This is the main content of the web page. It contains the cat breed information and images.
+
+HTML Tags Used
+Here are the HTML tags used in this project:
+
+<html>: Defines the root element.
+<head>: Contains meta-information about the document.
+<title>: Sets the title of the web page.
+<body>: Contains the main content of the web page.
+<h1>: Defines a top-level heading.
+<h2>: Defines a second-level heading.
+<p>: Defines a paragraph of text.
+<ul>: Defines an unordered (bulleted) list.
+<li>: Defines a list item.
+<img>: Embeds an image in the page.
+
+
+Shoutout to FreeCodeCamp
+We would like to give a special shoutout to FreeCodeCamp (https://www.freecodecamp.org/) for providing an excellent platform for learning web development and coding skills. Their free resources and community support make it possible for beginners to create projects like the Cat App.
+
+Conclusion
+The Cat App is a simple HTML project that provides information about popular cat breeds. It serves as a great starting point for those learning HTML and web development. We hope you find this documentation helpful and enjoy exploring the world of cats!
